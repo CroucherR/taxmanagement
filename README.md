@@ -31,6 +31,6 @@ To run this there are a few things you need to change in the repo to 'turn on' k
 2. Navigate into the TaxManagementServiceConfig file and follow the intrustions to enable keycloak.
 
 
-3. Run the apllication locally and the keycloak server should connect and provide the security.
+3. Run the aplication locally and the keycloak server should connect and provide the security.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
